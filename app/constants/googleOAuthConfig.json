@@ -1,0 +1,13 @@
+{
+  "web": {
+    "clientId": "YOUR_WEB_CLIENT_ID.apps.googleusercontent.com"
+  },
+  "ios": {
+    "clientId": "YOUR_IOS_CLIENT_ID.apps.googleusercontent.com",
+    "urlScheme": "com.googleusercontent.apps.YOUR_PROJECT_NUMBER"
+  },
+  "android": {
+    "packageName": "com.minhal128.remitgo",
+    "clientId": "YOUR_ANDROID_CLIENT_ID.apps.googleusercontent.com"
+  }
+}

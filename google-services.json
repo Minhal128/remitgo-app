@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1073764310287",
+    "project_id": "remitgo-9e714",
+    "storage_bucket": "remitgo-9e714.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073764310287:android:073d477f057a08202c327a",
+        "android_client_info": {
+          "package_name": "com.minhal128.remitgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073764310287-5lm4cmpu1di94mis2j913r4b0h2f5bkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minhal128.remitgo",
+            "certificate_hash": "ef12a10fdda56f53f25ba0939f122a502b66086d"
+          }
+        },
+        {
+          "client_id": "1073764310287-9pbap413iqnoalci942fttsbt78fqm9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_SD2SJjkyCIjUCHhHgMvRrNH2B5APq44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073764310287-9pbap413iqnoalci942fttsbt78fqm9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073764310287-2u677d6ci2rv1au9jhnuti03mc99i6jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.minhal128.remitgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
